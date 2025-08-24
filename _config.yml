@@ -1,3 +1,5 @@
-remote_theme: pages-themes/modernist@v0.2.0
-plugins:
-- jekyll-remote-theme
+title: gr8sleptonme.github.io
+email: saviordeogratious@gmail.com
+description: >-
+  This is my personal webpage hosted on GitHub Pages.
+theme: minima
